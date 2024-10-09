@@ -8,3 +8,8 @@ th, td {
     padding: 8px;
     text-align: left;
 }
+
+button {
+    margin-top: 10px;
+    margin-right: 5px;
+}
